@@ -6,8 +6,10 @@ This is Young from LuxPM. You have applied for the position of AI engineer. Than
 
 We have reviewed your application and decided to proceed with the next step which is a coding test. Please follow the guideline for the test.
 
-1. Use the images of the feet included in the repository, and build an algorithm where you can find the height of each foot in an image. 
-When I add a simliar image, I expect to get an estimated height of the foot in the image.
+1. Use the following images and label it as apple.
+2. Createa a directory called test.
+3. If I add a similar image into the directory, the machine should return "apple" as a value.
+4. Create an image file and provide us with steps for setting up the machine.
 
 Also, please answer the following questions.
 
