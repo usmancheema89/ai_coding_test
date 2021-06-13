@@ -5,11 +5,11 @@ Tasks performed:
 How to run:
 
   Required Libraries
-    - python
-    - torch (gpu)
-    - torchvision
-    - PIL
-    - numpy
+  - python
+  - torch (gpu)
+  - torchvision
+  - PIL
+  - numpy
   System Requirements:
     - Windows
     - nvidia GPU 
